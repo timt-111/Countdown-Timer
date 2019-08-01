@@ -26,7 +26,6 @@ C:\Users\timt\source\repos\Countdown-Timer\CountDownTimer2008\bin\Release\CountD
 C:\Users\timt\source\repos\Countdown-Timer\CountDownTimer2008\bin\Release\CountDownTimer2018.xml
 C:\Users\timt\source\repos\Countdown-Timer\CountDownTimer2008\bin\Release\CountDownTimer2018.exe.CodeAnalysisLog.xml
 C:\Users\timt\source\repos\Countdown-Timer\CountDownTimer2008\bin\Release\CountDownTimer2018.exe.lastcodeanalysissucceeded
-C:\Users\timt\source\repos\Countdown-Timer\CountDownTimer2008\obj\Release\CountDownTimer2018.vbprojAssemblyReference.cache
 C:\Users\timt\source\repos\Countdown-Timer\CountDownTimer2008\obj\Release\WindowsApplication1.Frm_about.resources
 C:\Users\timt\source\repos\Countdown-Timer\CountDownTimer2008\obj\Release\WindowsApplication1.DataEntry.resources
 C:\Users\timt\source\repos\Countdown-Timer\CountDownTimer2008\obj\Release\WindowsApplication1.Frm_Message.resources
