@@ -1,0 +1,52 @@
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008\Backup\CountDownTimer2008\bin\Release\CountDownTimer2008.exe.manifest
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008\Backup\CountDownTimer2008\bin\Release\CountDownTimer2008.application
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008\Backup\CountDownTimer2008\bin\Release\CountDownTimer2008.exe
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008\Backup\CountDownTimer2008\bin\Release\CountDownTimer2008.pdb
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008\Backup\CountDownTimer2008\bin\Release\CountDownTimer2008.xml
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008\Backup\CountDownTimer2008\obj\Release\ResolveAssemblyReference.cache
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008\Backup\CountDownTimer2008\obj\Release\WindowsApplication1.DataEntry.resources
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008\Backup\CountDownTimer2008\obj\Release\WindowsApplication1.TimerWindow.resources
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008\Backup\CountDownTimer2008\obj\Release\WindowsApplication1.Resources.resources
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008\Backup\CountDownTimer2008\obj\Release\WindowsApplication1.SplashScreen1.resources
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008\Backup\CountDownTimer2008\obj\Release\CountDownTimer2008.vbproj.GenerateResource.Cache
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008\Backup\CountDownTimer2008\obj\Release\CountDownTimer2008.exe.manifest
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008\Backup\CountDownTimer2008\obj\Release\CountDownTimer2008.application
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008\Backup\CountDownTimer2008\obj\Release\CountDownTimer2008.exe
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008\Backup\CountDownTimer2008\obj\Release\CountDownTimer2008.xml
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008\Backup\CountDownTimer2008\obj\Release\CountDownTimer2008.pdb
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008V2\CountDownTimer2008\bin\Release\CountDownTimer2008.exe.manifest
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008V2\CountDownTimer2008\bin\Release\CountDownTimer2008.application
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008V2\CountDownTimer2008\bin\Release\CountDownTimer2008.exe
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008V2\CountDownTimer2008\bin\Release\CountDownTimer2008.pdb
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008V2\CountDownTimer2008\bin\Release\CountDownTimer2008.xml
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\ResolveAssemblyReference.cache
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\WindowsApplication1.DataEntry.resources
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\WindowsApplication1.TimerWindow.resources
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\WindowsApplication1.Resources.resources
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\WindowsApplication1.SplashScreen1.resources
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\CountDownTimer2008.vbproj.GenerateResource.Cache
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\CountDownTimer2008.exe.manifest
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\CountDownTimer2008.application
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\CountDownTimer2008.exe
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\CountDownTimer2008.xml
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\CountDownTimer2008.pdb
+Z:\Tim's files\Visual Basic Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\WindowsApplication1.Frm_about.resources
+C:\Users\timt\Documents\Visual Studio 2008\Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\CountDownTimer2008.exe
+C:\Users\timt\Documents\Visual Studio 2008\Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\CountDownTimer2008.xml
+C:\Users\timt\Documents\Visual Studio 2008\Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\CountDownTimer2008.pdb
+C:\Users\timt\Documents\Visual Studio 2008\Projects\CountDownTimer2008V2\CountDownTimer2008\bin\Release\CountDownTimer2008.exe.manifest
+C:\Users\timt\Documents\Visual Studio 2008\Projects\CountDownTimer2008V2\CountDownTimer2008\bin\Release\CountDownTimer2008.application
+C:\Users\timt\Documents\Visual Studio 2008\Projects\CountDownTimer2008V2\CountDownTimer2008\bin\Release\CountDownTimer2008.exe
+C:\Users\timt\Documents\Visual Studio 2008\Projects\CountDownTimer2008V2\CountDownTimer2008\bin\Release\CountDownTimer2008.pdb
+C:\Users\timt\Documents\Visual Studio 2008\Projects\CountDownTimer2008V2\CountDownTimer2008\bin\Release\CountDownTimer2008.xml
+C:\Users\timt\Documents\Visual Studio 2008\Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\ResolveAssemblyReference.cache
+C:\Users\timt\Documents\Visual Studio 2008\Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\WindowsApplication1.Frm_about.resources
+C:\Users\timt\Documents\Visual Studio 2008\Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\WindowsApplication1.DataEntry.resources
+C:\Users\timt\Documents\Visual Studio 2008\Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\WindowsApplication1.Frm_Message.resources
+C:\Users\timt\Documents\Visual Studio 2008\Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\WindowsApplication1.Form_messages.resources
+C:\Users\timt\Documents\Visual Studio 2008\Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\WindowsApplication1.TimerWindow.resources
+C:\Users\timt\Documents\Visual Studio 2008\Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\timt\Documents\Visual Studio 2008\Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\WindowsApplication1.SplashScreen1.resources
+C:\Users\timt\Documents\Visual Studio 2008\Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\CountDownTimer2008.vbproj.GenerateResource.Cache
+C:\Users\timt\Documents\Visual Studio 2008\Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\CountDownTimer2008.exe.manifest
+C:\Users\timt\Documents\Visual Studio 2008\Projects\CountDownTimer2008V2\CountDownTimer2008\obj\Release\CountDownTimer2008.application
