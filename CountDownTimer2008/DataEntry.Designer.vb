@@ -19,79 +19,79 @@ Partial Class DataEntry
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.components = New System.ComponentModel.Container
-        Me.Cmd_FullScreen = New System.Windows.Forms.Button
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.Label3 = New System.Windows.Forms.Label
-        Me.Label4 = New System.Windows.Forms.Label
-        Me.Label5 = New System.Windows.Forms.Label
-        Me.Label6 = New System.Windows.Forms.Label
-        Me.Label7 = New System.Windows.Forms.Label
-        Me.Label8 = New System.Windows.Forms.Label
-        Me.Label9 = New System.Windows.Forms.Label
-        Me.Label10 = New System.Windows.Forms.Label
-        Me.Label11 = New System.Windows.Forms.Label
-        Me.Label12 = New System.Windows.Forms.Label
-        Me.Label13 = New System.Windows.Forms.Label
-        Me.Txt_Label_10 = New System.Windows.Forms.TextBox
-        Me.Txt_Label_9 = New System.Windows.Forms.TextBox
-        Me.Txt_Label_8 = New System.Windows.Forms.TextBox
-        Me.Txt_Label_7 = New System.Windows.Forms.TextBox
-        Me.Txt_Label_6 = New System.Windows.Forms.TextBox
-        Me.Txt_Label_5 = New System.Windows.Forms.TextBox
-        Me.Txt_Label_4 = New System.Windows.Forms.TextBox
-        Me.Txt_Label_3 = New System.Windows.Forms.TextBox
-        Me.Txt_Label_2 = New System.Windows.Forms.TextBox
-        Me.Txt_Label_1 = New System.Windows.Forms.TextBox
-        Me.Label14 = New System.Windows.Forms.Label
-        Me.Txt_Current_Time = New System.Windows.Forms.TextBox
-        Me.Txt_End_Time = New System.Windows.Forms.TextBox
-        Me.Label15 = New System.Windows.Forms.Label
-        Me.Txt_Minutes_1 = New System.Windows.Forms.NumericUpDown
-        Me.Txt_Minutes_2 = New System.Windows.Forms.NumericUpDown
-        Me.Txt_Minutes_4 = New System.Windows.Forms.NumericUpDown
-        Me.Txt_Minutes_3 = New System.Windows.Forms.NumericUpDown
-        Me.Txt_Minutes_8 = New System.Windows.Forms.NumericUpDown
-        Me.Txt_Minutes_7 = New System.Windows.Forms.NumericUpDown
-        Me.Txt_Minutes_6 = New System.Windows.Forms.NumericUpDown
-        Me.Txt_Minutes_5 = New System.Windows.Forms.NumericUpDown
-        Me.Txt_Minutes_10 = New System.Windows.Forms.NumericUpDown
-        Me.Txt_Minutes_9 = New System.Windows.Forms.NumericUpDown
-        Me.Label_remaining = New System.Windows.Forms.Label
-        Me.Label17 = New System.Windows.Forms.Label
-        Me.Txt_Remaining_Hours = New System.Windows.Forms.TextBox
-        Me.Txt_Remaining_Minutes = New System.Windows.Forms.TextBox
-        Me.Txt_Remaining_Seconds = New System.Windows.Forms.TextBox
-        Me.Label18 = New System.Windows.Forms.Label
-        Me.Label19 = New System.Windows.Forms.Label
-        Me.Label20 = New System.Windows.Forms.Label
-        Me.Label21 = New System.Windows.Forms.Label
-        Me.Label22 = New System.Windows.Forms.Label
-        Me.Cmd_Exit = New System.Windows.Forms.Button
-        Me.Label23 = New System.Windows.Forms.Label
-        Me.Label24 = New System.Windows.Forms.Label
-        Me.Txt_Yellow = New System.Windows.Forms.TextBox
-        Me.Txt_Red = New System.Windows.Forms.TextBox
-        Me.Label25 = New System.Windows.Forms.Label
-        Me.Label26 = New System.Windows.Forms.Label
-        Me.Label27 = New System.Windows.Forms.Label
-        Me.Label28 = New System.Windows.Forms.Label
-        Me.Label29 = New System.Windows.Forms.Label
-        Me.Label30 = New System.Windows.Forms.Label
-        Me.Label31 = New System.Windows.Forms.Label
-        Me.Label32 = New System.Windows.Forms.Label
-        Me.Label33 = New System.Windows.Forms.Label
-        Me.Label34 = New System.Windows.Forms.Label
-        Me.Label35 = New System.Windows.Forms.Label
+        Me.components = New System.ComponentModel.Container()
+        Me.Cmd_FullScreen = New System.Windows.Forms.Button()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.Label10 = New System.Windows.Forms.Label()
+        Me.Label11 = New System.Windows.Forms.Label()
+        Me.Label12 = New System.Windows.Forms.Label()
+        Me.Label13 = New System.Windows.Forms.Label()
+        Me.Txt_Label_10 = New System.Windows.Forms.TextBox()
+        Me.Txt_Label_9 = New System.Windows.Forms.TextBox()
+        Me.Txt_Label_8 = New System.Windows.Forms.TextBox()
+        Me.Txt_Label_7 = New System.Windows.Forms.TextBox()
+        Me.Txt_Label_6 = New System.Windows.Forms.TextBox()
+        Me.Txt_Label_5 = New System.Windows.Forms.TextBox()
+        Me.Txt_Label_4 = New System.Windows.Forms.TextBox()
+        Me.Txt_Label_3 = New System.Windows.Forms.TextBox()
+        Me.Txt_Label_2 = New System.Windows.Forms.TextBox()
+        Me.Txt_Label_1 = New System.Windows.Forms.TextBox()
+        Me.Label14 = New System.Windows.Forms.Label()
+        Me.Txt_Current_Time = New System.Windows.Forms.TextBox()
+        Me.Txt_End_Time = New System.Windows.Forms.TextBox()
+        Me.Label15 = New System.Windows.Forms.Label()
+        Me.Txt_Minutes_1 = New System.Windows.Forms.NumericUpDown()
+        Me.Txt_Minutes_2 = New System.Windows.Forms.NumericUpDown()
+        Me.Txt_Minutes_4 = New System.Windows.Forms.NumericUpDown()
+        Me.Txt_Minutes_3 = New System.Windows.Forms.NumericUpDown()
+        Me.Txt_Minutes_8 = New System.Windows.Forms.NumericUpDown()
+        Me.Txt_Minutes_7 = New System.Windows.Forms.NumericUpDown()
+        Me.Txt_Minutes_6 = New System.Windows.Forms.NumericUpDown()
+        Me.Txt_Minutes_5 = New System.Windows.Forms.NumericUpDown()
+        Me.Txt_Minutes_10 = New System.Windows.Forms.NumericUpDown()
+        Me.Txt_Minutes_9 = New System.Windows.Forms.NumericUpDown()
+        Me.Label_remaining = New System.Windows.Forms.Label()
+        Me.Label17 = New System.Windows.Forms.Label()
+        Me.Txt_Remaining_Hours = New System.Windows.Forms.TextBox()
+        Me.Txt_Remaining_Minutes = New System.Windows.Forms.TextBox()
+        Me.Txt_Remaining_Seconds = New System.Windows.Forms.TextBox()
+        Me.Label18 = New System.Windows.Forms.Label()
+        Me.Label19 = New System.Windows.Forms.Label()
+        Me.Label20 = New System.Windows.Forms.Label()
+        Me.Label21 = New System.Windows.Forms.Label()
+        Me.Label22 = New System.Windows.Forms.Label()
+        Me.Cmd_Exit = New System.Windows.Forms.Button()
+        Me.Label23 = New System.Windows.Forms.Label()
+        Me.Label24 = New System.Windows.Forms.Label()
+        Me.Txt_Yellow = New System.Windows.Forms.TextBox()
+        Me.Txt_Red = New System.Windows.Forms.TextBox()
+        Me.Label25 = New System.Windows.Forms.Label()
+        Me.Label26 = New System.Windows.Forms.Label()
+        Me.Label27 = New System.Windows.Forms.Label()
+        Me.Label28 = New System.Windows.Forms.Label()
+        Me.Label29 = New System.Windows.Forms.Label()
+        Me.Label30 = New System.Windows.Forms.Label()
+        Me.Label31 = New System.Windows.Forms.Label()
+        Me.Label32 = New System.Windows.Forms.Label()
+        Me.Label33 = New System.Windows.Forms.Label()
+        Me.Label34 = New System.Windows.Forms.Label()
+        Me.Label35 = New System.Windows.Forms.Label()
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
-        Me.Txt_minutes_total = New System.Windows.Forms.TextBox
-        Me.Label16 = New System.Windows.Forms.Label
-        Me.MenuStrip1 = New System.Windows.Forms.MenuStrip
-        Me.ToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem
-        Me.AboutCountdownTimer2008ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
-        Me.Label36 = New System.Windows.Forms.Label
-        Me.Label37 = New System.Windows.Forms.Label
+        Me.Txt_minutes_total = New System.Windows.Forms.TextBox()
+        Me.Label16 = New System.Windows.Forms.Label()
+        Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
+        Me.ToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
+        Me.AboutCountdownTimer2008ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Label36 = New System.Windows.Forms.Label()
+        Me.Label37 = New System.Windows.Forms.Label()
         CType(Me.Txt_Minutes_1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Txt_Minutes_2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Txt_Minutes_4, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -695,7 +695,7 @@ Partial Class DataEntry
         'AboutCountdownTimer2008ToolStripMenuItem
         '
         Me.AboutCountdownTimer2008ToolStripMenuItem.Name = "AboutCountdownTimer2008ToolStripMenuItem"
-        Me.AboutCountdownTimer2008ToolStripMenuItem.Size = New System.Drawing.Size(234, 22)
+        Me.AboutCountdownTimer2008ToolStripMenuItem.Size = New System.Drawing.Size(233, 22)
         Me.AboutCountdownTimer2008ToolStripMenuItem.Text = "About Countdown Timer 2008"
         '
         'Label36
@@ -793,7 +793,7 @@ Partial Class DataEntry
         Me.Controls.Add(Me.MenuStrip1)
         Me.MainMenuStrip = Me.MenuStrip1
         Me.Name = "DataEntry"
-        Me.Text = "Countdown Timer 2010"
+        Me.Text = "Countdown Timer 2018"
         CType(Me.Txt_Minutes_1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.Txt_Minutes_2, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.Txt_Minutes_4, System.ComponentModel.ISupportInitialize).EndInit()
